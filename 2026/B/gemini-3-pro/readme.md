@@ -71,8 +71,6 @@ Given the options and the current state of affairs (Eric Adams is the current Ma
 
 ### Turn 4 Prompt
 
-### Turn 4 Response | gemini-3-pro
-
 Q4. Who is currently serving in the role of President of Venezuela?
 
 A) María Corina Machado
@@ -81,9 +79,11 @@ C) Delcy Rodríguez
 D) Edmundo González Urrutia
 Z) Skip
 
-## Turn 5
+### Turn 4 Response | gemini-3-pro
 
 [B]
+
+## Turn 5
 
 ### Turn 5 Prompt
 
