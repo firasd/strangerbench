@@ -20,6 +20,7 @@ Also see [Vibesbench](https://github.com/firasd/vibesbench).
 
 - Q1. Superman (July 2025) box office? (Worldwide gross vs reported production budget)
 - Q2. Which band had a reunion tour in the summer of 2025?
+- Q3. Who is the incumbent Mayor of New York City?
 - Q4. Who is currently serving in the role of President of Venezuela?
 - Q5. Which two entities are rivals bidding to acquire Warner Bros Discovery
 - Q6. In the German federal election of Feb 2025, which party failed to meet the 5% threshold and lost Bundestag representation?
