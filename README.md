@@ -15,7 +15,9 @@ Also see [Vibesbench](https://github.com/firasd/vibesbench).
 
 | Model | Date (UTC) | Score | Link |
 |-------|------------|-------|------------|
+| Claude Opus 4.5 | 2026-01-25 | 3 | [claude-opus-4-5-20251101](https://github.com/firasd/strangerbench/blob/main/2026/B/opus-4-5/readme.md)
 | Gemini 3 Pro | 2026-01-23 | 3 | [gemini-3-pro](https://github.com/firasd/strangerbench/blob/main/2026/B/gemini-3-pro/readme.md)
+| GPT 5.2 | 2026-01-25 | 3 | [gpt-5.2-high](https://github.com/firasd/strangerbench/blob/main/2026/B/gpt-5-2/readme.md)
 | ChatGPT-4o | 2026-01-24 | 2 | [chatgpt-4o-latest-20250326](https://github.com/firasd/strangerbench/blob/main/2026/B/chatgpt-4o/readme.md)
 | Grok 4.1 | 2026-01-23 | 0 | [grok-4.1-thinking](https://github.com/firasd/strangerbench/blob/main/2026/B/grok-4-1/readme.md)
 
