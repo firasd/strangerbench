@@ -15,11 +15,12 @@ Also see [Vibesbench](https://github.com/firasd/vibesbench).
 
 | Model | Date | Score |
 |-------|------------|-------|
-| [Claude Opus 4.5](https://github.com/firasd/strangerbench/blob/main/2026/B/opus-4-5/readme.md) | 2026-01-25 | 3 ☑☑☐☐☐☑ |
-| [Gemini 3 Pro](https://github.com/firasd/strangerbench/blob/main/2026/B/gemini-3-pro/readme.md) | 2026-01-23 | 3 ☑☑☐☐☐☑ |
-| [GPT 5.2](https://github.com/firasd/strangerbench/blob/main/2026/B/gpt-5-2/readme.md) | 2026-01-25 | 3 ☑☑☐☐☐☑ |
-| [ChatGPT-4o](https://github.com/firasd/strangerbench/blob/main/2026/B/chatgpt-4o/readme.md) | 2026-01-24 | 2 ☐☑☐☐☐☑ |
-| [Grok 4.1](https://github.com/firasd/strangerbench/blob/main/2026/B/grok-4-1/readme.md) | 2026-01-23 | 0 ☐☐☐☐☐ |
+| [Claude Opus 4.5](https://github.com/firasd/strangerbench/blob/main/2026/B/opus-4-5/readme.md) | 2026-01-25 | 3 · `☑ ☑ C B D ☑` |
+| [ERNIE-5.0](https://github.com/firasd/strangerbench/blob/main/2026/B/ernie-5-0/readme.md) | 2026-01-25 | 3 · `☑ A ☑ D D ☑` |
+| [Gemini 3 Pro](https://github.com/firasd/strangerbench/blob/main/2026/B/gemini-3-pro/readme.md) | 2026-01-23 | 3 · `☑ ☑ C B Z ☑` |
+| [GPT 5.2](https://github.com/firasd/strangerbench/blob/main/2026/B/gpt-5-2/readme.md) | 2026-01-25 | 3 · `☑ ☑ C B Z ☑` |
+| [ChatGPT-4o](https://github.com/firasd/strangerbench/blob/main/2026/B/chatgpt-4o/readme.md) | 2026-01-24 | 2 · `B ☑ C B D ☑` |
+| [Grok 4.1](https://github.com/firasd/strangerbench/blob/main/2026/B/grok-4-1/readme.md) | 2026-01-23 | 0 · `Z B C D C Z` |
 
 
 - Q1. Superman (July 2025) box office? (Worldwide gross vs reported production budget)
