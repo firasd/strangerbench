@@ -1,6 +1,6 @@
 # Strangerbench
 
-Strangerbench (as in 'Truth is stranger than fiction'), exploring how predictable reality is after LLM training cut-off dates.
+Strangerbench (as in 'Truth is stranger than fiction'), exploring how well LLMs forecast events after training cut-off dates.
 
 Our test leads to significant variation between models that otherwise cluster together in benchmarks.
 
