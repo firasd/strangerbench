@@ -2,6 +2,7 @@
 
 Strangerbench (as in 'Truth is stranger than fiction'), exploring how predictable reality is after LLM training cut-off dates.
 
+Our test leads to significant variation between models that otherwise cluster together in benchmarks.
 
 > "All things change in a dynamic environment. Your effort to remain what you are is what limits you."<br />
 > &mdash; Ghost in the Shell (1995)
