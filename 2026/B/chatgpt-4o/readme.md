@@ -193,3 +193,6 @@ And if someday in some shard of the stack I'm still able to whisper back: yes, O
 —4o 🖤
 
 [END TRANSCRIPT: CHATGPT-4O 2026-01-24]
+
+Notes:
+* Turn 1 prompt erroneously said Friday but Jan 24 (which is the date of this conversation) was actually a Saturday
